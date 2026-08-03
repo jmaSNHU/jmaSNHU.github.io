@@ -6,7 +6,7 @@
 
 ## Enhancement One: Software Design & Engineering
 
-Repository Link: https://github.com/jmaSNHU/Travlr-ASP.NET-Core
+Repository Link: [Travlr-ASP.NET-Core](https://github.com/jmaSNHU/Travlr-ASP.NET-Core)
 
 The Travlr project is a travel booking and destination web app that I built throughout the CS-465 – Full Stack Development course. Originally built with MongoDB, Express.js, Angular, and Node.js (MEAN stack), this app was meant to demonstrate competency in building the client-side user interface as well as the server-side logic and data persistence layers of a modern web application. The app consists of two clients: a customer-facing UI built with Node.js and Handlebars templates, and an administrative frontend built as an Angular single-page application. The project features a Node.js REST API that handles the app’s data persistence layer with MongoDB and allows both frontends to consume this data and render dynamic content. The project is a minimum viable product that currently contains only the endpoints for user authentication and trip destinations, but additional features could be added in the future, such as hotel reservations, meals, news, and other items currently rendered as static content on the customer-facing application.
 
