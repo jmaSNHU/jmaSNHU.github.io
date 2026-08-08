@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Enhancement Two: Algorithms & Data Structures"
+title: "Course Schedule Program"
 permalink: /course-list.md/
 ---
 
