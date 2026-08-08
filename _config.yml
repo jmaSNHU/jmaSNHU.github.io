@@ -5,3 +5,9 @@ remote_theme: "jekyll/minima@2.5-stable"
 
 plugins:
 - jekyll-remote-theme 
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+  - projects/index.md
