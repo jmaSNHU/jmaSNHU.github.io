@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Enhancement One: Software Design & Engineering"
-permalink: /travlr/
+permalink: /travlr.md/
 ---
 
 ## Travlr Trip Booking Site
