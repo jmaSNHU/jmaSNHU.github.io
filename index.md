@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "CS-499 Capstone"
 permalink: /index.md/
 ---
