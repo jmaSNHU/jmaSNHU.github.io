@@ -6,7 +6,7 @@ permalink: /travlr.md/
 
 ## Travlr Trip Booking Site
 
-![Travlr Admin App (Angular SPA)](images/angular-frontend.jpg)
+![Travlr Admin App (Angular SPA)](../images/angular-frontend.jpg)
 ![Travlr Customer-Facing Frontend (Node.js w/ Handlebars Templates)](../images/nodejs-frontend.jpg)
 
 Repository Link: [Travlr-ASP.NET-Core](https://github.com/jmaSNHU/Travlr-ASP.NET-Core)
