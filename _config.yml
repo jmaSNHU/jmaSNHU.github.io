@@ -7,7 +7,7 @@ plugins:
 - jekyll-remote-theme 
 
 header_pages:
-  - index.md
-  - about.md
-  - contact.md
-  - projects/index.md
+  - pages/index.md
+  - pages/software-engineering.md
+  - pages/course-list.md
+  - pages/aac-dashboard.md
