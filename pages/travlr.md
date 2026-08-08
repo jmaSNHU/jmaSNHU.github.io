@@ -1,4 +1,10 @@
-## Enhancement One: Software Design & Engineering
+---
+layout: page
+title: "Enhancement One: Software Design & Engineering"
+permalink: /travlr/
+---
+
+## Travlr Trip Booking Site
 
 ![Travlr Admin App (Angular SPA)](images/angular-frontend.jpg)
 ![Travlr Customer-Facing Frontend (Node.js w/ Handlebars Templates)](images/nodejs-frontend.jpg)
