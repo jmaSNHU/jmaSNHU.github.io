@@ -8,6 +8,7 @@ plugins:
 
 header_pages:
   - pages/index.md
+  - pages/code-review.md
   - pages/travlr.md
   - pages/course-list.md
   - pages/aac-dashboard.md
