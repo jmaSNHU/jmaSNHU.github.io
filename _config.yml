@@ -7,7 +7,7 @@ plugins:
 - jekyll-remote-theme 
 
 header_pages:
-  - pages/index.md
+  - index.md
   - pages/code-review.md
   - pages/travlr.md
   - pages/course-list.md
