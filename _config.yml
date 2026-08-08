@@ -8,6 +8,6 @@ plugins:
 
 header_pages:
   - pages/index.md
-  - pages/software-engineering.md
+  - pages/travlr.md
   - pages/course-list.md
   - pages/aac-dashboard.md
