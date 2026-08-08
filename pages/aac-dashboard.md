@@ -15,12 +15,15 @@ I first created a SQLite database with an animal table and several related paren
 With this enhancement I intended to demonstrate my ability to use well founded techniques, skills, and tools for the purpose of implementing computing solutions with a focus on relational database management systems. I also planned to evaluate computing solutions that solve a given problem using standard computer science practices, while managing the trade offs involved in design choices. I believe I’ve accomplished this by using a set of industry standard database tools with SQLite and the SQLAlchemy ORM, which each offer significant advantages in persistence and data access, albeit with some trade offs when compared to NoSQL databases. An RDBMS like SQLite provides the safety of a rigid schema and the ability to model complex data relationships that normalize data and eliminate redundancy. However, this comes at the expense of more complicated query operations, which require joining relational data and may impact performance for complex relationships. Similarly, while ORMs like SQLAlchemy provide a useful abstraction for database entities, they introduce technical debt, potential query optimization issues, and may not handle some complex queries.
 
 ![Declarative Base Class](../images/base.jpg)
+
 Figure 1 - Declarative Base class that each model inherits from.
 
 ![Animal Model Class](../images/animal.jpg)
+
 Figure 2 - Animal model class
 
 During the implementation process, I learned a lot about SQLAlchemy and had to overcome several challenges when I implemented the model classes and refactored the client code. This was my first time working with SQLAlchemy, and I learned the modern approach to creating a base model, implementing models with foreign keys and relationship attributes, and writing queries with filtering and joins. One of the challenges I encountered was writing the queries that the client uses to filter for specific types of rescue animals. While the raw SQL needed for these queries is not complex, learning how to do this correctly in SQLAlchemy was a challenge because there are multiple ways to perform joins and filter queries, some of which are outdated but still supported as legacy methods. For instance, the legacy query method was replaced by select as the standard way to execute a SELECT statement in SQL. I also had to learn which methods correspond to the correct type of JOIN operation (i.e., outer vs. inner join).
 
 ![Example Query Using the Animal Class](../images/query.jpg)
+
 Figure 3 - Example of query using the Animal class in the client code
