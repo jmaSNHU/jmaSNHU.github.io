@@ -1,7 +1,7 @@
 title: Jacob Ard's ePortfolio
 description: SNHU CS-499 Capstone
-#remote_theme: pages-themes/modernist@v0.2.0
-remote_theme: "jekyll/minima@2.5-stable"
+remote_theme: pages-themes/modernist@v0.2.0
+#remote_theme: "jekyll/minima@2.5-stable"
 
 plugins:
 - jekyll-remote-theme 
