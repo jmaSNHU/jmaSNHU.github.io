@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CS-499 Capstone"
+title: "Home"
 permalink: /index.md/
 ---
 
