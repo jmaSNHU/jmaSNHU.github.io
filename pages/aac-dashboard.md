@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AAC Dashboard
-permalink: /aac-dashboard.md
+title: "AAC Dashboard"
+permalink: /aac-dashboard.md/
 ---
 
 ![AAC Dashboard Screenshot](../images/aac-dashboard.jpg)
