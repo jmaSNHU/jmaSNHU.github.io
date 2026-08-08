@@ -4,15 +4,15 @@ title: "Enhancement Two: Algorithms & Data Structures"
 permalink: /course-list.md/
 ---
 
-[Course List Command Line Interface](../images/course-list-cli.jpg)
+![Course List Command Line Interface](../images/course-list-cli.jpg)
 
 This C++ program is derived from the final project for CS-300: Design and Analysis of Data Structures and Algorithms. The purpose of this project was to demonstrate my ability to correctly implement a fundamental computer science data structure and apply it to a practical problem. The original project requirements were to write a program that reads a CSV file containing course data, which includes fields for Course Number, Course Name, and a list of prerequisite courses. The program must also be able to print all courses in alphanumeric order by course ID and search the data structure for a single course. I was given a choice to implement one of three data structures: Binary Search Tree, Hashmap, or Vector. A Binary Search Tree, or BST, was a natural choice for this solution because it typically includes an in-order traversal method that satisfies the sorting requirement, while Hashmaps are inherently unordered and Vectors would require a less efficient sort operation after loading the initial data structure.
 
 I chose to enhance this artifact by implementing a B-Tree data structure to replace my original BST implementation. One reason I chose this approach is that my original BST class lacks a rebalance function. As BSTs grow in height and size, their performance degrades toward a worst-case O(n) runtime complexity. To prevent this and maintain an average O(log n) complexity for search, insert, and delete operations, they must be periodically rebuilt. I decided to implement a B-Tree because it is inherently self-balancing and therefore guarantees a worst-case runtime complexity of O(log n). B-Trees differ from BSTs in that each node can hold multiple keys and multiple children rather than two, which is determined by a minimum degree factor. The trade-off is that the implementation of B-Tree operations is much more complex than the BST. For example, the B-Tree maintains balance with a function that splits full child nodes and moves the median key to the parent node. 
 
-[B-Tree Split Method](../images/split-method.jpg)
+![B-Tree Split Method](../images/split-method.jpg)
  
-[B-Tree Node Struct and Class Interfaces](../images/b-tree-class.jpg)
+![B-Tree Node Struct and Class Interfaces](../images/b-tree-class.jpg)
 
 The course outcome I hope to demonstrate with this enhancement is to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. I have demonstrated my ability to implement an advanced data structure in the form of a B-Tree, which is a fundamental computer science data structure often used by databases to implement the indexes that allow for fast key lookups (Gökçe, 2025). I have implemented the B-Tree's insert, search, and in-order traversal methods using efficient algorithms that should guarantee a worst-case O(log n) complexity for insert and search operations and O(n) complexity for traversal, which is the same as the BST. I have also explained the benefits and drawbacks of the B-Tree compared to the BST, which provides a better worst-case complexity for all major operations compared to the BST before rebalancing. The trade-off is that B-Tree code is significantly harder to implement, debug, and maintain when compared to the BST. 
 
