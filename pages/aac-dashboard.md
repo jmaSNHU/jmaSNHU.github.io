@@ -4,7 +4,9 @@ title: "AAC Dashboard"
 permalink: /aac-dashboard.md/
 ---
 
+
 [Original Artifact:](https://github.com/jmaSNHU/CS-340)
+
 [Enhanced Artifact](https://github.com/jmaSNHU/aac-dashboard)
 
 ![AAC Dashboard Screenshot](../images/aac-dashboard.jpg)
