@@ -4,6 +4,10 @@ title: "Course Schedule Program"
 permalink: /course-list.md/
 ---
 
+[Original Artifact: https://github.com/jmaSNHU/CS-300](https://github.com/jmaSNHU/CS-300)
+
+[Enhanced Artifact: https://github.com/jmaSNHU/CourseList-BTree](https://github.com/jmaSNHU/CourseList-BTree)
+
 ![Course List Command Line Interface](../images/course-list-cli.jpg)
 
 This C++ program is derived from the final project for CS-300: Design and Analysis of Data Structures and Algorithms. The purpose of this project was to demonstrate my ability to correctly implement a fundamental computer science data structure and apply it to a practical problem. The original project requirements were to write a program that reads a CSV file containing course data, which includes fields for Course Number, Course Name, and a list of prerequisite courses. The program must also be able to print all courses in alphanumeric order by course ID and search the data structure for a single course. I was given a choice to implement one of three data structures: Binary Search Tree, Hashmap, or Vector. A Binary Search Tree, or BST, was a natural choice for this solution because it typically includes an in-order traversal method that satisfies the sorting requirement, while Hashmaps are inherently unordered and Vectors would require a less efficient sort operation after loading the initial data structure.
