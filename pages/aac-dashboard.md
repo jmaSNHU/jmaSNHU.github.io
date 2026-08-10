@@ -4,6 +4,9 @@ title: "AAC Dashboard"
 permalink: /aac-dashboard.md/
 ---
 
+[Original Artifact:](https://github.com/jmaSNHU/CS-340)
+[Enhanced Artifact](https://github.com/jmaSNHU/aac-dashboard)
+
 ![AAC Dashboard Screenshot](../images/aac-dashboard.jpg)
 
 This artifact is a web based dashboard built with Python and the Plotly Dash framework. It served as the final project for CS 340 Client/Server Development and was meant to demonstrate my understanding of database principles and client/server development principles. The original project consists of a MongoDB database that stores data from the Austin Animal Center outcomes dataset, which includes information about animals such as name, breed, sex, age, and location. A Python module with create, read, update, and delete methods acts as a wrapper around the PyMongo module to expose basic CRUD functionality to the client application. The purpose of the client dashboard is to allow users to query the database for certain types of rescue animals, which involves filtering for specific dog breeds, age ranges, and sex status. The dashboard also displays a pie chart, a histogram, and a geolocation chart that places a pin on the currently selected animal’s longitude and latitude coordinates.
