@@ -4,9 +4,9 @@ title: "Course Schedule Program"
 permalink: /course-list.md/
 ---
 
-[Original Artifact: https://github.com/jmaSNHU/CS-300](https://github.com/jmaSNHU/CS-300)
+Original Artifact: [https://github.com/jmaSNHU/CS-300](https://github.com/jmaSNHU/CS-300)
 
-[Enhanced Artifact: https://github.com/jmaSNHU/CourseList-BTree](https://github.com/jmaSNHU/CourseList-BTree)
+Enhanced Artifact: [https://github.com/jmaSNHU/CourseList-BTree](https://github.com/jmaSNHU/CourseList-BTree)
 
 ![Course List Command Line Interface](../images/course-list-cli.jpg)
 
