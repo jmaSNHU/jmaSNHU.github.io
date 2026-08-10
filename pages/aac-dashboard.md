@@ -5,10 +5,10 @@ permalink: /aac-dashboard.md/
 ---
 
 
-[Original Artifact:](https://github.com/jmaSNHU/CS-340)
+[Original Artifact: https://github.com/jmaSNHU/CS-340](https://github.com/jmaSNHU/CS-340)
 
 
-[Enhanced Artifact](https://github.com/jmaSNHU/aac-dashboard)
+[Enhanced Artifact: https://github.com/jmaSNHU/aac-dashboard](https://github.com/jmaSNHU/aac-dashboard)
 
 ![AAC Dashboard Screenshot](../images/aac-dashboard.jpg)
 
