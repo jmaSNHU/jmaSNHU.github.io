@@ -4,6 +4,8 @@ title: "Course Schedule Program"
 permalink: /course-list.md/
 ---
 
+#### Enhancement Category: Algorithms & Data Structures
+
 Original Artifact: [https://github.com/jmaSNHU/CS-300](https://github.com/jmaSNHU/CS-300)
 
 Enhanced Artifact: [https://github.com/jmaSNHU/CourseList-BTree](https://github.com/jmaSNHU/CourseList-BTree)
