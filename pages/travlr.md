@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Travlr"
+title: "Travlr Getaways"
 permalink: /travlr.md/
 ---
 
