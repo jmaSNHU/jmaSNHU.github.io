@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Professional Self-Assessment"
+title: "Self-Assessment"
 permalink: /index.md/
 ---
 
