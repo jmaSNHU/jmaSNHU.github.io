@@ -4,6 +4,8 @@ title: "AAC Dashboard"
 permalink: /aac-dashboard.md/
 ---
 
+#### Enhancement Category: Software Design & Engineering
+
 
 Original Artifact: [https://github.com/jmaSNHU/CS-340](https://github.com/jmaSNHU/CS-340)
 
