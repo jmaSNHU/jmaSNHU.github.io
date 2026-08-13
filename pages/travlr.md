@@ -4,7 +4,7 @@ title: "Travlr Getaways"
 permalink: /travlr.md/
 ---
 
-#### Enhancement Category: Databases
+#### Enhancement Category: Software Design & Engineering
 
 Original Artifact: [https://github.com/jmaSNHU/cs465-fullstack](https://github.com/jmaSNHU/cs465-fullstack)
 
