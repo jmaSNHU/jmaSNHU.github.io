@@ -4,6 +4,8 @@ title: "Travlr"
 permalink: /travlr.md/
 ---
 
+#### Enhancement Category: Databases
+
 Original Artifact: [https://github.com/jmaSNHU/cs465-fullstack](https://github.com/jmaSNHU/cs465-fullstack)
 
 
