@@ -1,0 +1,13 @@
+my_sidebar:
+  - title: "Professional Self-Assessment"
+    url: /index.md/
+  - title: "Code Review"
+    url: /code-review.md/
+  - title: "Artifacts"
+    children:
+      - title: "Software Design & Engineering"
+        url: /travlr.md/
+      - title: "Algorithms & Data Structures"
+        url: /course-list.md/
+      - title: "Databases"
+        url: /aac-dashboard.md/

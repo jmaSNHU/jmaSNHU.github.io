@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Course Schedule Program"
 permalink: /course-list.md/
 ---

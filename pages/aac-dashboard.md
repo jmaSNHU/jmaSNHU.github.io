@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "AAC Dashboard"
 permalink: /aac-dashboard.md/
 ---
