@@ -1,10 +1,17 @@
 ---
 layout: single
+classes: wide
 title: "Self-Assessment"
 permalink: /
+author_profile: true
+author: Jacob Ard
+header:
+  overlay_image: /images/hero.png
+  overlay_filter: 0.5 # darken image
+  actions:
+    - label: "My Projects"
+      url: "https://github.com/jmaSNHU"
 ---
-
-Welcome to my e-Portfolio created for my computer science capstone project at Southern New Hampshire University!
 
 ### Professional Self-Assessment
 
@@ -25,3 +32,4 @@ This portfolio contains three artifacts that I have selected for enhancement as 
 The first artifact is a redesigned REST API for a travel-booking web application, which showcases my software design and engineering skills by re-writing the entire backend as an ASP.NET Core Web API. I demonstrate my technical expertise of industry-standard design patterns and technologies through the use of the repository pattern, data transfer objects, unit testing, and JWT token authentication with ASP.NET Core Identity. The second artifact is B-Tree implementation in C++ using templated metaprogramming, which demonstrates my ability to apply algorithmic principles and design efficient and scalable data structures. The third artifact is a Plotly Dash web dashboard that originally used a MongoDB database. I enhanced this artifact by migrating to a SQLite database, which demonstrates my understanding of relational database systems, schema normalization and the integration of object-relational mapping with SQLAlchemy.
 
 Together, these artifacts show that I possess a well rounded technical skillset and can work across all technical layers of a computing system, including databases, data access, algorithms and data structures, backend architecture, and client side presentation. They demonstrate my ability to use well founded and innovative techniques to build code that is extensible, modular, maintainable, and testable. These enhancements reflect my capability to design, implement, and evaluate computing solutions using algorithmic principles and sound computer science practices, while thoughtfully considering the trade offs inherent in technical design decisions. I further demonstrate my understanding of secure programming practices through the implementation of a robust, industry standard authentication and authorization model in a REST API. I further demonstrate my understanding of securing programming practices by applying industry-standard security measures to enable secure communications and authentication.
+
