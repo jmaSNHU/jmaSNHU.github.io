@@ -1,0 +1,22 @@
+main: 
+  - title: "Professional Self-Assessment"
+    url: /index/
+  - title: "Code Review"
+    url: /code-review/
+  - title: "Artifacts"
+    url: /artifacts/
+
+artifact_sidebar:
+  - title: "Artifacts"
+  - title: "Software Design & Engineering"
+    children:
+      - title: "Travlr Getaways"
+        url: /travlr/
+  - title: "Algorithms & Data Structures"
+    children:
+      - title: "Course Schedule"
+        url: /course-list/
+  - title: "Databases"
+    children:
+      - title: "AAC Dashboard"
+        url: /aac-dashboard/

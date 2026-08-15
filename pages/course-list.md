@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
+classes: wide
 title: "Course Schedule Program"
-permalink: /course-list.md/
+permalink: /course-list/
+sidebar:
+  nav: "artifact_sidebar"
 ---
 
 #### Enhancement Category: Algorithms & Data Structures
