@@ -19,10 +19,3 @@ include:
   - pages/course-list.md
   - pages/aac-dashboard.md
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      sidebar:
-        nav: "my_sidebar"

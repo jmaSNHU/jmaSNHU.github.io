@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="672">
+
+  <!-- Root node -->
+  <rect x="350" y="40" width="500" height="80" rx="8" fill="#eef" stroke="#000"/>
+  <text x="370" y="90" font-family="monospace" font-size="26">
+    CSCI200  |  CSCI300  |  CSCI350
+  </text>
+
+  <!-- Left child -->
+  <rect x="80" y="220" width="350" height="80" rx="8" fill="#efe" stroke="#000"/>
+  <text x="100" y="270" font-family="monospace" font-size="26">
+    CSCI100  |  CSCI101
+  </text>
+
+  <!-- Middle child -->
+  <rect x="425" y="220" width="350" height="80" rx="8" fill="#ffe" stroke="#000"/>
+  <text x="445" y="270" font-family="monospace" font-size="26">
+    CSCI301  |  CSCI400
+  </text>
+
+  <!-- Right child -->
+  <rect x="770" y="220" width="405" height="100" rx="8" fill="#fee" stroke="#000"/>
+  <text x="790" y="270" font-family="monospace" font-size="26">
+    CSCI340  |  CSCI401  |  CSCI499
+  </text>
+
+  <!-- Edges -->
+  <line x1="600" y1="120" x2="255" y2="220" stroke="#000" stroke-width="2"/>
+  <line x1="600" y1="120" x2="600" y2="220" stroke="#000" stroke-width="2"/>
+  <line x1="600" y1="120" x2="945" y2="220" stroke="#000" stroke-width="2"/>
+
+</svg>

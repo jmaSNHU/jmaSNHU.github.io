@@ -1,7 +1,10 @@
 ---
 layout: single
+classes: wide
 title: "AAC Dashboard"
-permalink: /aac-dashboard.md/
+permalink: /aac-dashboard/
+sidebar:
+  nav: "artifact_sidebar"
 ---
 
 #### Enhancement Category: Databases

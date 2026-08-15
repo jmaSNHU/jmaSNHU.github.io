@@ -1,13 +1,22 @@
-my_sidebar:
+main: 
   - title: "Professional Self-Assessment"
-    url: /index.md/
+    url: /index/
   - title: "Code Review"
-    url: /code-review.md/
+    url: /code-review/
   - title: "Artifacts"
+    url: /artifacts/
+
+artifact_sidebar:
+  - title: "Artifacts"
+  - title: "Software Design & Engineering"
     children:
-      - title: "Software Design & Engineering"
-        url: /travlr.md/
-      - title: "Algorithms & Data Structures"
-        url: /course-list.md/
-      - title: "Databases"
-        url: /aac-dashboard.md/
+      - title: "Travlr Getaways"
+        url: /travlr/
+  - title: "Algorithms & Data Structures"
+    children:
+      - title: "Course Schedule"
+        url: /course-list/
+  - title: "Databases"
+    children:
+      - title: "AAC Dashboard"
+        url: /aac-dashboard/

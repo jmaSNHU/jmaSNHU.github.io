@@ -1,7 +1,14 @@
 ---
 layout: single
+classes: wide
 title: "Self-Assessment"
-permalink: /index.md/
+permalink: /index/
+header:
+  overlay_image: /images/hero.png
+  overlay_filter: 0.5 # darken image
+  actions:
+    - label: "My Projects"
+      url: "https://github.com/jmaSNHU"
 ---
 
 Welcome to my e-Portfolio created for my computer science capstone project at Southern New Hampshire University!

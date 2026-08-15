@@ -1,7 +1,10 @@
 ---
 layout: single
+classes: wide
 title: "Travlr Getaways"
-permalink: /travlr.md/
+permalink: /travlr/
+sidebar:
+  nav: "artifact_sidebar"
 ---
 
 #### Enhancement Category: Software Design & Engineering

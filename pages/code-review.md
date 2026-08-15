@@ -1,7 +1,8 @@
 ---
 layout: single
+classes: wide
 title: Code Review
-permalink: /code-review.md/
+permalink: /code-review/
 ---
 
 {% include youtube.html id="XxTfuvpJMs4" %}
