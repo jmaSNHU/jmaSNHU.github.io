@@ -3,6 +3,8 @@ layout: single
 classes: wide
 title: "Self-Assessment"
 permalink: /index/
+author_profile: true
+author: Jacob Ard
 header:
   overlay_image: /images/hero.png
   overlay_filter: 0.5 # darken image
