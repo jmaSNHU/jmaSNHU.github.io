@@ -1,0 +1,11 @@
+Jacob Ard:
+  name        : "Jacob Ard"
+  bio         : "Software Developer and outdoor enthusiast"
+  avatar      : "../images/self.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:jacob.ard@snhu.edu"
+    - label: "GitHub"
+      icon: "fab fa-square-github"
+      url: "https://github.com/jmaSNHU"
