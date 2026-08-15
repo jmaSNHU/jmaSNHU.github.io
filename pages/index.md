@@ -11,8 +11,6 @@ header:
       url: "https://github.com/jmaSNHU"
 ---
 
-Welcome to my e-Portfolio created for my computer science capstone project at Southern New Hampshire University!
-
 ### Professional Self-Assessment
 
 During my time at SNHU, I have mastered fundamental computer science concepts on both a theoretical and practical level, including algorithms and data structures, software design and engineering, databases, web development, mobile app development, and secure programming techniques. I have also gained a strong understanding of Software Development Lifecycle (SDLC) methodologies, such as the historical basis of the waterfall model, the advantages of Agile development, and the roles and responsibilities of Scrum teams. Each of my courses at SNHU has provided hands-on experience applying these core concepts and has enabled me to build a strong portfolio that demonstrates my abilities as a computer scientist and aspiring developer. Overall, my academic experience has shaped and reinforced my career aspirations in full stack web development.

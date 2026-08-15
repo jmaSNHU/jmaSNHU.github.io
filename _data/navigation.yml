@@ -1,4 +1,6 @@
 main: 
+  - title: "About Me"
+    url: /about/
   - title: "Professional Self-Assessment"
     url: /index/
   - title: "Code Review"
