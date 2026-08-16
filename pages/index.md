@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Self-Assessment"
-permalink: /index/
+permalink: /
 author_profile: true
 author: Jacob Ard
 header:
