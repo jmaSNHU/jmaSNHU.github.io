@@ -2,7 +2,7 @@ title: Jacob Ard's ePortfolio
 description: SNHU CS-499 Capstone
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 
 plugins:
 - jekyll-remote-theme 
