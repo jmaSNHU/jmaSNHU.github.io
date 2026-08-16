@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Professional Self-Assessment"
-    url: /index/
+    url: /
   - title: "Code Review"
     url: /code-review/
   - title: "Artifacts"
