@@ -33,3 +33,6 @@ The first artifact is a redesigned REST API for a travel-booking web application
 
 Together, these artifacts show that I possess a well rounded technical skillset and can work across all technical layers of a computing system, including databases, data access, algorithms and data structures, backend architecture, and client side presentation. They demonstrate my ability to use well founded and innovative techniques to build code that is extensible, modular, maintainable, and testable. These enhancements reflect my capability to design, implement, and evaluate computing solutions using algorithmic principles and sound computer science practices, while thoughtfully considering the trade offs inherent in technical design decisions. I further demonstrate my understanding of secure programming practices through the implementation of a robust, industry standard authentication and authorization model in a REST API. I further demonstrate my understanding of securing programming practices by applying industry-standard security measures to enable secure communications and authentication.
 
+<div class="text-right" markdown="1">
+[Next Page](/code-review/){: .btn .btn--primary}
+</div>

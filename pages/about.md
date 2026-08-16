@@ -16,3 +16,7 @@ My interest in programming began when I discovered Linux as a way to squeeze som
 Today, I specialize in building and integrating REST APIs, debugging complex systems, and database design. I am also exploring domain‑driven design and vertical slice architecture to deepen my understanding of modern software design practices.
 
 Outside of software development, you’ll most likely find me in the out-of-doors. I’m passionate about wilderness backpacking, hiking, and bicycling.
+
+<div class="text-right" markdown="1">
+[Next Page](/index/){: .btn .btn--primary}
+</div>

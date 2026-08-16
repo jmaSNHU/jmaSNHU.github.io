@@ -33,3 +33,8 @@ One of my goals for this enhancement was to demonstrate my ability to use well-f
 ![Auth Controller Using ASP.NET Core Identity](../images/auth-controller.jpg)
 
 This enhancement has given me the opportunity to learn more about backend web development, software design patterns, and unit testing approaches. For instance, this was my first experience integrating MongoDB into a C# application. With this, I had to consider the tradeoff between using a much newer Entity Framework package for MongoDB or the more basic but widely used MongoDB driver. I chose the latter, with my reasoning being that it is better to rely on a more stable, well-known package for project maintainability and to minimize the risk of breaking changes. I also uncovered several new ideas and additional improvements that I had not initially intended. For example, I saw how the repository pattern would make it easier to add more functionality in the future and isolate the DTO mapping to the service layer. It also became clear that I needed to improve my documentation on my GitHub repository to make it easier for collaborators to use my code. I isolated specific features to separate branches, which makes source control easier to manage. I also added some setup instructions to the README, which I will continue to improve as needed.
+
+<div class="text-right" markdown="1">
+[Prev Page](/artifacts/){: .btn .btn--secondary}
+[Next Page](/course-list/){: .btn .btn--primary}
+</div>

@@ -25,3 +25,8 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<div class="text-right" markdown="1">
+[Prev Page](/code-review/){: .btn .btn--secondary}
+[Next Page](/travlr/){: .btn .btn--primary}
+</div>

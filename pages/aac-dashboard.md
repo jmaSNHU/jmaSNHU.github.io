@@ -38,3 +38,7 @@ During the implementation process, I learned a lot about SQLAlchemy and had to o
 ![Example Query Using the Animal Class](../images/query.jpg)
 
 Figure 3 - Example of query using the Animal class in the client code
+
+<div class="text-right" markdown="1">
+[Prev Page](/course-list/){: .btn .btn--secondary}
+</div>
