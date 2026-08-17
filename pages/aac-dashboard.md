@@ -47,14 +47,14 @@ This enhancement demonstrates my ability to use well founded techniques, skills,
 
 ![Declarative Base Class](../images/base.jpg)
 
-Figure 1 - Declarative Base class that each model inherits from.
+*Figure 1 - Declarative Base class that each model inherits from*
 
 ![Animal Model Class](../images/animal.jpg)
 
-Figure 2 - Animal model class
+*Figure 2 - Animal model class*
 
 During the implementation process, I learned a lot about SQLAlchemy and had to overcome several challenges when I implemented the model classes and refactored the client code. This was my first time working with SQLAlchemy, and I learned the modern approach to creating a base model, implementing models with foreign keys and relationship attributes, and writing queries with filtering and joins. One of the challenges I encountered was writing the queries that the client uses to filter for specific types of rescue animals. While these queries were not complex, learning how to do this correctly in SQLAlchemy was a challenge because there are multiple ways to perform joins and filter queries, some of which are outdated but still supported as legacy methods. For instance, the legacy query method was replaced by select as the standard way to execute a SELECT statement in SQL. I also had to learn which methods correspond to the correct type of JOIN operation (i.e., outer vs. inner join).
 
 ![Example Query Using the Animal Class](../images/query.jpg)
 
-Figure 3 - Example of query using the Animal class in the client code
+*Figure 3 - Example of query using the Animal class in the client code*
