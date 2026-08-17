@@ -47,7 +47,7 @@ I chose to enhance this artifact by implementing a B-Tree data structure to repl
  
 ![B-Tree Node Struct and Class Interfaces](../images/b-tree-class.png)
 
-*Figure 2 – BST Node Struct and Class Interfaces*
+*Figure 2 – B-Tree Node Struct and Class Interfaces*
 
 The course outcome I hope to demonstrate with this enhancement is to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. I have demonstrated my ability to implement an advanced data structure in the form of a B-Tree, which is a fundamental computer science data structure often used to implement database indexes. I have implemented the B-Tree's insert, search, and in-order traversal methods using efficient algorithms that should guarantee a worst-case O(log n) complexity for insert and search operations and O(n) complexity for traversal. I have also explained the benefits and drawbacks of the B-Tree compared to the BST, which provides a better worst-case complexity for all major operations compared to the BST before rebalancing. The trade-off is that B-Tree code is significantly harder to implement, debug, and maintain when compared to the BST. 
 
