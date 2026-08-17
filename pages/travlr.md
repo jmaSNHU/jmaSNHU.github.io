@@ -9,10 +9,31 @@ sidebar:
 
 #### Enhancement Category: Software Design & Engineering
 
-Original Artifact: [https://github.com/jmaSNHU/cs465-fullstack](https://github.com/jmaSNHU/cs465-fullstack)
 
+<style>
+  .no-header-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .no-header-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+</style>
 
-Enhanced Artifact: [https://github.com/jmaSNHU/Travlr-ASP.NET-Core](https://github.com/jmaSNHU/Travlr-ASP.NET-Core)
+<table class="no-header-table">
+  <tbody>
+    <tr>
+      <td>Original Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/cs465-fullstack" target="_blank">https://github.com/jmaSNHU/cs465-fullstack</a></td>
+    </tr>
+    <tr>
+      <td>Enhanced Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/Travlr-ASP.NET-Core" target="_blank">https://github.com/jmaSNHU/Travlr-ASP.NET-Core</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ![Travlr Admin App (Angular SPA)](../images/angular-frontend.jpg)
 ![Travlr Customer-Facing Frontend (Node.js w/ Handlebars Templates)](../images/nodejs-frontend.jpg)

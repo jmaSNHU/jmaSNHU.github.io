@@ -9,9 +9,31 @@ sidebar:
 
 #### Enhancement Category: Algorithms & Data Structures
 
-Original Artifact: [https://github.com/jmaSNHU/CS-300](https://github.com/jmaSNHU/CS-300)
 
-Enhanced Artifact: [https://github.com/jmaSNHU/CourseList-BTree](https://github.com/jmaSNHU/CourseList-BTree)
+<style>
+  .no-header-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .no-header-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+</style>
+
+<table class="no-header-table">
+  <tbody>
+    <tr>
+      <td>Original Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/CS-300" target="_blank">https://github.com/jmaSNHU/CS-300</a></td>
+    </tr>
+    <tr>
+      <td>Enhanced Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/CourseList-BTree" target="_blank">https://github.com/jmaSNHU/CourseList-BTree</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ![Course List Command Line Interface](../images/course-list-cli.jpg)
 
