@@ -7,7 +7,7 @@ author_profile: true
 author: Jacob Ard
 ---
 
-Welcome to my e‑Portfolio, created for my computer science capstone project at Southern New Hampshire University.
+Welcome to my ePortfolio, created for my computer science capstone project at Southern New Hampshire University.
 
 My name is Jacob Ard, and I am a software developer based in Akron, OH with a strong focus on full‑stack web development. I am experienced with C# and ASP.NET Core, C++, Python, JavaScript, MySQL, SQLite, and MongoDB.
 
