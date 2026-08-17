@@ -10,10 +10,30 @@ sidebar:
 #### Enhancement Category: Databases
 
 
-Original Artifact: [https://github.com/jmaSNHU/CS-340](https://github.com/jmaSNHU/CS-340)
+<style>
+  .no-header-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .no-header-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+</style>
 
+<table class="no-header-table">
+  <tbody>
+    <tr>
+      <td>Original Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/CS-340" target="_blank">https://github.com/jmaSNHU/CS-340</a></td>
+    </tr>
+    <tr>
+      <td>Enhanced Artifact</td>
+      <td><a href="https://github.com/jmaSNHU/aac-dashboard" target="_blank">https://github.com/jmaSNHU/aac-dashboard</a></td>
+    </tr>
+  </tbody>
+</table>
 
-Enhanced Artifact: [https://github.com/jmaSNHU/aac-dashboard](https://github.com/jmaSNHU/aac-dashboard)
 
 ![AAC Dashboard Screenshot](../images/aac-dashboard.jpg)
 
